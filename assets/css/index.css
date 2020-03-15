@@ -1,0 +1,301 @@
+
+.navbar-color {
+  background-color: #823133;
+  height: 45px;
+
+}
+
+.lista li {
+  text-decoration: none;
+  color: #fff;
+  display: inline;
+  padding: 1px;
+  letter-spacing:0.02em; 
+  
+
+}
+ul.lista{
+  padding-right: 195px;
+  
+}
+
+
+.home, .historia, .advogados, .atuacao, .acordos, .noticias, .contato {
+  color: aliceblue;
+  font-family: cizel, serif;
+  font-size: 14px;
+ 
+}
+
+.home{
+  opacity: 0.3;
+}
+
+.historia:hover, .advogados:hover, .atuacao:hover, .acordos:hover, .noticias:hover, .contato:hover{
+  color: aliceblue;
+  opacity: 0.3;
+  text-decoration: none;
+  transition-duration: 0.4s;
+
+}
+
+
+#justice {
+  background: url("../img/justitia-2597016.jpg");
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+}
+#history {
+  background-color: rgba(238, 233, 203, 0.9);
+}
+#mission {
+  background-color: #995954;
+  opacity: 0.95;
+}
+.text-box {
+  justify-items: center;
+  width: 202px;
+}
+
+.office{
+  background: url("../img/6.jpg");
+  background-position: center;
+  background-attachment: fixed;
+  height: 85vh;
+  
+}
+
+#atuaction{
+  background-color: rgb(255, 255, 255);
+
+
+}
+.informations{
+  background-color: #8a383a96;
+  background: url("../img/78.JPG.jpg");
+  height: 454;
+}
+
+h3{
+  color: #fff;
+  font-family: cizel, serif;
+  font-size: 36px;
+  padding-bottom: 15px;
+  
+}
+
+.info-mission{
+  font-size: 17px;
+  color:#FFFFFF;
+  font-family: sans-serif;
+  margin-left: 30px;
+  padding-right:20px;
+  font-family: avenir-lt-35;
+}
+.vl {  /* CSS Barra solida */
+  border-left: 2px solid #861b1b;
+  height: 315px;
+
+}
+
+.barra{
+  height: 62px;
+  width: 100%;
+  background-color: rgb(94, 32, 32);
+}
+
+h2{
+  font-size: 45px;
+  font-family: Cinzel;
+  color:#823133;
+}
+
+p.paragrafos{
+  color: #252525;
+  font-size: 20px;
+  margin-left: 40px;
+  text-align: justify;
+  text-indent: 5px;
+  letter-spacing: normal;
+  line-height: normal;
+  font-family: avenir-lt-35;
+
+}
+
+#MoreInfo{
+
+  background: url("../img/78.JPG.jpg");
+  background-position: center;
+  background-attachment: fixed;
+  width: 100%;
+  
+}
+
+.espacng {
+  line-height:1.1em;
+}
+.direitos {
+  padding-left: 1px;
+}
+
+.direitos li{
+  color: #fff;
+  letter-spacing:0.1em;
+  font-size: 19px;
+  font-family: avenir-lt-35;
+ 
+ 
+}
+
+#agreement{
+  background: url('../img/light.png');
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+footer{
+  /*padding: 50px 0 20px 0;*/
+  background-color: rgba(233, 233, 233, 0.63);
+}
+
+.text-color{
+  color:#FFFFFF;
+  letter-spacing: 0.05em;
+  margin: 0;
+  font-size: 19px;
+  font-family: avenir-lt-35;
+
+  
+}
+
+#contactUs{
+  background: url(../img/21.JPG.jpg);
+  background-position: center;
+  background-attachment: fixed;
+  height: 90vh;
+  
+}
+
+.font-span{
+  letter-spacing:0.1em;
+   font-size:16px; 
+   color:#FFFFFF; 
+   text-align: center;
+   font-family: avenir-lt-35;
+}
+
+
+.overlay-section {
+  /*position: fixed;*/
+  display: block;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(126, 45, 45, 0.6);
+  z-index: 2;
+}
+
+/* BOTÕES NEXT E PREVIOS DE CAROUSEL*/
+span.carousel-control-prev-icon, .carousel-control-next-icon{
+  background-color: #FFFFFF;
+  height: 40px;
+  width: 40px;
+  color: #252525;
+}
+
+a.carousel-control-prev, .carousel-control-next{
+  height:100px;
+  position: absolute;
+  top: 260px;
+
+
+}
+
+
+.text-footer{
+  font-size: 16px;
+  color: #A0A09F;
+  letter-spacing:0.02em;
+  font-family: avenir-lt-35;
+}
+
+.mission-size{
+  font-family:cizel; font-size:27px; color: #fff;
+
+}
+
+.button {
+  background-color:rgba(126, 45, 45);
+  border: none;
+  color: #FFFFFF;
+  padding: 7px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+  font-family: avenir-lt-35;
+  margin: 2px 2px;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: rgb(126, 45, 45, 0.3);
+  color: #FFFFFF;
+  transition-duration: 0.4s;
+
+}
+
+.auto-generated-link{
+  text-decoration: none;
+  color: #FFFFFF;
+  font-size: 19px;
+}
+.auto-generated-link:hover{
+  text-decoration: none;
+  color: #FFFFFF;
+}
+
+.black-color{
+  color: #252525;
+  letter-spacing: 0.05em;
+}
+
+
+
+
+.fa-instagram {
+  
+  color: white;
+  
+}
+.fa-facebook {
+  
+  color: white;
+}
+.fa-linkedin {
+
+  color: white;
+}
+
+
+
+@font-face{
+  font-family: cizel;
+  src: url('../font/Cinzel-Regular.otf');
+
+}
+
+@font-face{
+  font-family: avenir-lt-35;
+  src: url('../font/avenir-lt-35-light.ttf');
+}
+
+h2 {
+  font-family: cizel, serif;
+  font-size: 40px;
+}
