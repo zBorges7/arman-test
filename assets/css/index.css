@@ -1,7 +1,7 @@
 
 .navbar-color {
   background-color: #823133;
-  height: 45px;
+  /* height: 45px; */
 
 }
 
@@ -13,10 +13,6 @@
   letter-spacing:0.02em; 
   
 
-}
-ul.lista{
-  padding-right: 195px;
-  
 }
 
 
@@ -68,8 +64,6 @@ ul.lista{
 
 #atuaction{
   background-color: rgb(255, 255, 255);
-
-
 }
 .informations{
   background-color: #8a383a96;
