@@ -260,24 +260,6 @@ a.carousel-control-prev, .carousel-control-next{
 }
 
 
-
-
-.fa-instagram {
-  
-  color: white;
-  
-}
-.fa-facebook {
-  
-  color: white;
-}
-.fa-linkedin {
-
-  color: white;
-}
-
-
-
 @font-face{
   font-family: cizel;
   src: url('../font/Cinzel-Regular.otf');
