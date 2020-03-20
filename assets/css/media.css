@@ -57,6 +57,7 @@
         opacity: 0.8;
         height: 230px; 
         width: 400px;
+        overflow: scroll;
       }
     
 }
