@@ -1,4 +1,3 @@
-
 .navbar-color {
   background-color: #823133;
   /* height: 45px; */
@@ -74,7 +73,7 @@
 h3{
   color: #fff;
   font-family: cizel, serif;
-  font-size: 36px;
+  font-size: 40px;
   padding-bottom: 15px;
   
 }
@@ -99,17 +98,16 @@ h3{
   background-color: rgb(94, 32, 32);
 }
 
-h2{
-  font-size: 45px;
+h2 {
   font-family: Cinzel;
-  color:#823133;
+  font-size: 40px;
+  padding-bottom: 15px;
 }
 
 p.paragrafos{
   color: #252525;
   font-size: 20px;
   margin-left: 40px;
-  text-align: justify;
   text-indent: 5px;
   letter-spacing: normal;
   line-height: normal;
@@ -254,10 +252,59 @@ a.carousel-control-prev, .carousel-control-next{
   color: #FFFFFF;
 }
 
-.black-color{
+.h-color{
   color: #252525;
   letter-spacing: 0.05em;
 }
+
+.h-color-2 {
+  color: #823133;
+  letter-spacing: 0.05em;
+}
+
+
+
+.collectable-info{
+  background-color: #FFFFFF;
+  opacity: 0.8;
+  height: 230px; 
+  width: 550px;
+}
+
+
+.medium-imput{
+  width: 95%;
+  float: right;
+  margin: 0;
+  border: none;
+  padding:8px;
+  font-family: avenir-lt-35, sans-serif;
+
+
+}
+
+.btn-primary{
+  background-color:rgba(126, 45, 45);
+  border-color: #fff;
+  border-radius: 0;
+
+}
+
+
+.btn-primary:hover{
+  background-color:rgba(126, 45, 45);
+  border-color: #fff;
+
+
+
+}
+
+/*.ident{
+  width: 650px; margin: auto
+}*/
+
+
+
 
 
 @font-face{
@@ -273,5 +320,5 @@ a.carousel-control-prev, .carousel-control-next{
 
 h2 {
   font-family: cizel, serif;
-  font-size: 40px;
+  font-size: 2.5rem;
 }
