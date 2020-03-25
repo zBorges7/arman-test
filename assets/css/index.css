@@ -3,25 +3,34 @@
   /* height: 45px; */
 
 }
-
+.img-logo{
+  width: 350px;
+}
 .lista li {
   text-decoration: none;
   color: #fff;
   display: inline;
   padding: 1px;
-  letter-spacing:0.02em; 
-  
-
+  letter-spacing:0.02em;  
+}
+.nav-item{
+  border-right: 1px solid rgba(160, 160, 159,1);
+  padding-right: 5px;
+}
+.nav-item:last-child{
+  border-right: none;
+  padding: none;
 }
 
-
-.home, .historia, .advogados, .atuacao, .acordos, .noticias, .contato {
+body, .home, .historia, .advogados, .atuacao, .acordos, .noticias, .contato {
   color: aliceblue;
   font-family: cizel, serif;
-  font-size: 14px;
- 
+  font-size: 14px; 
 }
-
+#btn-acorde{
+  border-radius: 0 !important;
+  background-color: rgba(138, 48, 50,1);
+}
 .home{
   opacity: 0.3;
 }

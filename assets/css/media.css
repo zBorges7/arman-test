@@ -2,19 +2,19 @@
     .vl{
         display: none;
     }
-
     .info-mission {
         font-size: 17px;
         color: #FFFFFF;
         font-family: sans-serif;
         font-family: avenir-lt-35;
-
-
-
 }
 }
 
 @media screen and (max-width:460px){
+    .img-logo{
+        width: 221px;
+        margin: 0 auto;
+      }
     h3{
         color: #fff;
         font-family: cizel, serif;
